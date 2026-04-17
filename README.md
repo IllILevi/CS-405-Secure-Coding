@@ -6,4 +6,7 @@ This is a collection of the schoolwork I've done for CS-405: Secure Coding at So
 
 ## Security Policy Presentation.
 
-[![]](https://youtu.be/GPalAz6hedE)
+[![security policy](https://img.youtube.com/vi/GPalAz6hedE/0.jpg)](https://www.youtube.com/watch?v=GPalAz6hedE)
+
+
+
